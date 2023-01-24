@@ -5,7 +5,7 @@
 <p align="center"> 🌱 Currently attending a Master's Degree programme in Data Science </p>
 <p align="center"> 👯 Open to collaborate, interested in computer vision, generative models and language models </p>
 
-### <p align="center"> Feel free to reach me on:
+### <p align="center"> Feel free to reach me:
 <p align="center"> 
   <a href="https://www.linkedin.com/in/brunolimon/"> 
     <img align="center" alt="Bruno's LinkedIn" width="35" src="assets/linkedin.png" />

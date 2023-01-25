@@ -1,7 +1,6 @@
 # <p align="center"> HELLO WORLD! </p>
-### <p align="center"> Bruno Limon is: </p>
 
-<p align="center"> 🔭 A Machine Learning enthusiast, actively working towards the singularity </p>
+<p align="center"> 🔭 Machine Learning enthusiast, actively working towards the singularity </p>
 <p align="center"> 🌱 Currently attending a Master's Degree programme in Data Science </p>
 <p align="center"> 👯 Open to collaborate, interested in computer vision, generative models and language models </p>
 

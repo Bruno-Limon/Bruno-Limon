@@ -1,5 +1,4 @@
-
-## <p align="center"> Hello There! I'm Bruno </p>
+## <p align="center"> Hey there, it's Bruno </p>
 <p align="center">
   <a href="https://github.com/Bruno-Limon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans&weight=50&size=20&duration=3000&pause=2500&color=00DBF9&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Data+Scientist+in+the+making" alt="Typing SVG" /></a>
   
